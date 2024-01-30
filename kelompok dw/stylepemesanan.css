@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(58, 111, 97);
+}
+
+.inibrand img {
+    width:200px ;
+    margin-left: 50px;
+}
+
+.judul {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.pesan {
+    margin-top: 20px;
+    
+}
+.btn{
+   width: 30%;
+   border-radius: 10px;
+font-weight: bold;
+   margin-top: 10px;
+}
+.btn a{
+    color: white;
+}
